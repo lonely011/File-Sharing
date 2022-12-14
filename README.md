@@ -26,7 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[depoy on heroku](https://heroku.com/deploy?template=https://github.com/lonely011/File-Sharing)
+<p align="center"> <a href="https://dashboard.heroku.com/new?template=https://github.com/lonely011/File-Sharing"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
