@@ -1,4 +1,4 @@
-# File-Sharing-Man
+# File-Sharing
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
@@ -27,6 +27,15 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ## 🛡 Installation
 ### Deploy on Heroku
 <p align="center"> <a href="https://dashboard.heroku.com/new?template=https://github.com/lonely011/File-Sharing"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
+
+### Deploy in Vps
+````bash
+git clone https://github.com/lonely01/File-Sharing
+cd File-Sharing
+pip3 install -r requirements.txt
+# <Create config.py>
+python3 main.py
+````
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -69,10 +78,6 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 * `{previouscaption}` - Original Caption
 
 </details>
-
-## 🏷 Support   
-- Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
 
 ## 👨🏻‍💻 Credits
 
