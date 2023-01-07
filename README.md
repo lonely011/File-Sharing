@@ -30,7 +30,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ### Deploy in Vps
 ````bash
-git clone https://github.com/lonely01/File-Sharing
+git clone https://github.com/lonely011/File-Sharing
 cd File-Sharing
 pip3 install -r requirements.txt
 # <Create config.py>
